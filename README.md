@@ -1,7 +1,74 @@
 # Curso de Python da Danki Code
 Exercícios do Curso de Python da Danki Code
 
-- [ ] Funções (coleçõeS)
+## Sobre 
+
+Aprenda Python, do zero ao profissional, neste curso inédito do mercado. Tudo que você precisa saber de uma das linguagens mais poderosas do mundo está aqui!
+
+### Índice das Aulas do Curso:
+<p><em>Lista das aulas. As marcadas como "checked" são as que já foram assistidas e commitadas</em></p>
+
+#### Introdução
+- [x] Introdução ao Curso
+- [x] IDE vs Editor de Código
+
+#### Instalação do Python
+- [x] Ambiente Virtual Google Colab
+- [ ] Instalando Python no Windows
+- [ ] Visual Studio Code no Windows
+- [ ] Python no Linux
+- [ ] Visual Studio Code no Linux
+- [ ] Mais Sobre VSCode para Python
+
+#### Variáveis e Tipos de Dados
+- [x] Fundamentos
+- [x] Números
+- [x] Variáveis
+- [x] Strings
+- [x] Type
+- [x] Casting
+- [x] Escopo de Variáveis
+- [x] Tipos de Dados
+- [x] Conceitos
+
+#### Estruturas Lógicas e Condicionais
+- [x] Instalando Guia de Estilos
+- [x] Terminal
+- [x] Operadores Aritméticos
+- [x] Mais Operadores Aritméticos
+- [x] Tipo Boolean
+- [x] Boolean (OR)
+- [x] Função Input
+- [x] Operadores de Comparação
+- [x] Exercício #1
+- [x] Condicional com IF
+- [x] Else e Elif
+- [x] Exercício #2
+- [x] Operador Ternário
+
+#### Estruturas de Repetição
+- [x] While
+- [x] Break e Else
+- [x] For
+- [x] Range
+- [x] Projeto Gerador de Senhas
+- [x] Trocando Variáveis
+- [x] Verificando Sinal Numérico
+- [x] Projeto Mini Game 1/2
+- [x] Projeto Mini Game 2/2
+- [x] Do While
+- [x] Número Par
+- [x] Fatorial
+- [x] Números Primos
+- [x] Continue e Pass
+- [x] Operadores de Atribuição
+- [x] Exercício #3
+
+#### Coleções: Listas
+- [x] Introdução as Coleções
+- [x] Listas
+- [x] Slicing
+- [ ] Funções (coleções)  
 - [ ] Funções (list)
 - [ ] Mudando Itens
 - [ ] Adicionar Elementos
