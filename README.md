@@ -14,11 +14,11 @@ Aprenda Python, do zero ao profissional, neste curso inédito do mercado. Tudo q
 
 #### Instalação do Python
 - [x] Ambiente Virtual Google Colab
-- [ ] Instalando Python no Windows
-- [ ] Visual Studio Code no Windows
-- [ ] Python no Linux
-- [ ] Visual Studio Code no Linux
-- [ ] Mais Sobre VSCode para Python
+- [x] Instalando Python no Windows
+- [x] Visual Studio Code no Windows
+- [x] Python no Linux
+- [x] Visual Studio Code no Linux
+- [x] Mais Sobre VSCode para Python
 
 #### Variáveis e Tipos de Dados
 - [x] Fundamentos
