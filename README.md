@@ -26,48 +26,48 @@ Aprenda Python, do zero ao profissional, neste curso inédito do mercado. Tudo q
 - [x] Variáveis
 - [x] Strings
 - [x] Type
-- [x] Casting
-- [x] Escopo de Variáveis
-- [x] Tipos de Dados
-- [x] Conceitos
+- [ ] Casting
+- [ ] Escopo de Variáveis
+- [ ] Tipos de Dados
+- [ ] Conceitos
 
 #### Estruturas Lógicas e Condicionais
-- [x] Instalando Guia de Estilos
-- [x] Terminal
-- [x] Operadores Aritméticos
-- [x] Mais Operadores Aritméticos
-- [x] Tipo Boolean
-- [x] Boolean (OR)
-- [x] Função Input
-- [x] Operadores de Comparação
-- [x] Exercício #1
-- [x] Condicional com IF
-- [x] Else e Elif
-- [x] Exercício #2
-- [x] Operador Ternário
+- [ ] Instalando Guia de Estilos
+- [ ] Terminal
+- [ ] Operadores Aritméticos
+- [ ] Mais Operadores Aritméticos
+- [ ] Tipo Boolean
+- [ ] Boolean (OR)
+- [ ] Função Input
+- [ ] Operadores de Comparação
+- [ ] Exercício #1
+- [ ] Condicional com IF
+- [ ] Else e Elif
+- [ ] Exercício #2
+- [ ] Operador Ternário
 
 #### Estruturas de Repetição
-- [x] While
-- [x] Break e Else
-- [x] For
-- [x] Range
-- [x] Projeto Gerador de Senhas
-- [x] Trocando Variáveis
-- [x] Verificando Sinal Numérico
-- [x] Projeto Mini Game 1/2
-- [x] Projeto Mini Game 2/2
-- [x] Do While
-- [x] Número Par
-- [x] Fatorial
-- [x] Números Primos
-- [x] Continue e Pass
-- [x] Operadores de Atribuição
-- [x] Exercício #3
+- [ ] While
+- [ ] Break e Else
+- [ ] For
+- [ ] Range
+- [ ] Projeto Gerador de Senhas
+- [ ] Trocando Variáveis
+- [ ] Verificando Sinal Numérico
+- [ ] Projeto Mini Game 1/2
+- [ ] Projeto Mini Game 2/2
+- [ ] Do While
+- [ ] Número Par
+- [ ] Fatorial
+- [ ] Números Primos
+- [ ] Continue e Pass
+- [ ] Operadores de Atribuição
+- [ ] Exercício #3
 
 #### Coleções: Listas
-- [x] Introdução as Coleções
-- [x] Listas
-- [x] Slicing
+- [ ] Introdução as Coleções
+- [ ] Listas
+- [ ] Slicing
 - [ ] Funções (coleções)  
 - [ ] Funções (list)
 - [ ] Mudando Itens
