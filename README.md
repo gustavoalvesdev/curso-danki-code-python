@@ -26,8 +26,8 @@ Aprenda Python, do zero ao profissional, neste curso inédito do mercado. Tudo q
 - [x] Variáveis
 - [x] Strings
 - [x] Type
-- [ ] Casting
-- [ ] Escopo de Variáveis
+- [x] Casting
+- [x] Escopo de Variáveis
 - [ ] Tipos de Dados
 - [ ] Conceitos
 
